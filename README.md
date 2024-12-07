@@ -1,7 +1,8 @@
 # Automatic Number Plate Recognition (ANPR)
 ---
 Here's a video exlaination of **Automatic Number Plate Recognition (ANPR)** project attached:
-https://drive.google.com/drive/folders/1Z9BU38if3ipHCBS-l6EpwVP0bo9bdCEB?usp=sharing
+
+[Explaination video]([https://github.com/ultralytics/yolov9](https://drive.google.com/drive/folders/1Z9BU38if3ipHCBS-l6EpwVP0bo9bdCEB?usp=sharing))
 ---
 
 This project implements an **Automatic Number Plate Recognition (ANPR)** system for smart city traffic management. It uses YOLOv9 for license plate detection and EasyOCR for text recognition. The solution is wrapped in a Streamlit application to allow users to process input videos and extract number plates.
