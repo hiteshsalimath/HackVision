@@ -1,5 +1,5 @@
-Here's a sample README file for your **Automatic Number Plate Recognition (ANPR)** project based on the provided details and assumptions about its structure and functionality:
-
+Here's a video exlaination of **Automatic Number Plate Recognition (ANPR)** project attached:
+https://drive.google.com/drive/folders/1Z9BU38if3ipHCBS-l6EpwVP0bo9bdCEB?usp=sharing
 ---
 
 # Automatic Number Plate Recognition (ANPR)
