@@ -1,5 +1,6 @@
 # Automatic Number Plate Recognition (ANPR)
 ---
+
 Here's a video exlaination of **Automatic Number Plate Recognition (ANPR)** project attached:
 
 [Explaination video](https://drive.google.com/drive/folders/1Z9BU38if3ipHCBS-l6EpwVP0bo9bdCEB?usp=sharing)
